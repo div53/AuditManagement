@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AuditSeverity_MicroService</name>
+    </assembly>
+    <members>
+        <member name="M:AuditSeverity_MicroService.Controllers.AuditSeverityController.AuditSeverity(Global_MicroService.Dtos.AuditRequestDto)">
+            <summary>
+            Post The AuditRequestDto and Get AuditResponseDto object in response!
+            </summary>
+            <param name="auditRequestDto">AuditRequestDto Object</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
